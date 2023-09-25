@@ -14,5 +14,5 @@ The `homebrew-egovframe` repository was initiated in response to the challenges 
 
 ``` bash
 brew tap leejongyoung/egovframe
-brew install egovframe
+brew install --cask egovframe
 ```
