@@ -13,6 +13,6 @@ The `homebrew-egovframe` repository was initiated in response to the challenges 
 ## How to Use
 
 ``` bash
-brew tap leejongyoung/egovframe
+brew tap egovframework/egovframe
 brew install --cask egovframe
 ```
