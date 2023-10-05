@@ -12,6 +12,6 @@ homebrew-egovframe 저장소는 homebrew-cask 저장소에서 발생한 문제�
 
 ## 사용 방법
 ``` bash
-brew tap username/homebrew-egovframe
+brew tap egovframework/egovframe
 brew install --cask egovframe
 ```
