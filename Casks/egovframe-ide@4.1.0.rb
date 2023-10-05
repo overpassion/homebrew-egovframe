@@ -1,4 +1,4 @@
-cask "egovframe" do
+cask "egovframe-ide@4.1.0" do
     version "4.1.0"
   
     app_name = ""
