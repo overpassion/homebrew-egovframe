@@ -4,13 +4,13 @@ cask "egovframe-edu@4.1.0" do
     app_name = ""
   
     on_arm do
-      sha256 "284d4857205ef78d8c55ddeaaa8d89d2910bc899bb5e3ee25624c31d2698e5c6"
+      sha256 "aca2196203d5b6cfd0ba5f9f2c5f71705e2e534400b98707136f4c902ca6a77d"
   
       url "https://maven.egovframe.go.kr/publist/HDD1/public/eGovFrame-#{version}-Mac-64bit.dmg"
       app_name = "eGovFrame-#{version}-Mac-64it.app"
     end
     on_intel do
-      sha256 "284d4857205ef78d8c55ddeaaa8d89d2910bc899bb5e3ee25624c31d2698e5c6"
+      sha256 "aca2196203d5b6cfd0ba5f9f2c5f71705e2e534400b98707136f4c902ca6a77d"
   
       url "https://maven.egovframe.go.kr/publist/HDD1/public/eGovFrame-#{version}-Mac-64bit.dmg"
       app_name = "eGovFrame-#{version}-Mac-64it.app"
